@@ -44,7 +44,7 @@
 					"Input with more arguments than needed is allowed but the extra arguments will be ignored. "\
 					"\n\n"\
 					"The program was built as an assignment work for the Open University.\n"\
-					"The program is registered under GPL License. See License.txt for more information.\n"\
+					"The program is registered under GPL License. See License.md for more information.\n"\
 					"The source code can be found here: https://github.com/gur111/Mmn22-2016.git\n"\
 					"The complex calculator can handle simple complex operations and most of the programming is focused on the UI.\n"\
 					"If you want to embed parts of the code in other programs feel free to do so but please give credit :)\n"\
